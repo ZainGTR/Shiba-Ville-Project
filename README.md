@@ -21,13 +21,16 @@ ShibaVille is a decentralized strategy game where players mint, build, trade, an
    Use gathered resources to create gold mining units, which convert resources into gold, the primary in-game currency.
 
 4. **Strategic Army Units**  
-   Gold is used to mint army units. Players deploy these units for defense or to invade other towns.
+   Gold is used to mint army units, players deploy these units for defense or to invade other towns.
 
 5. **Marketplace**  
    Trade resources and gold with other players to optimize your strategy.
 
 6. **Invasions**  
    Players can invade other towns to claim a percentage of unclaimed resources and gold. This introduces a layer of strategic competition.
+
+7. **Town Shares**
+   Share your ville gold income with investors by selling town shares, This will add a new layer of monetization for the players.
 
 ---
 
@@ -43,7 +46,7 @@ ShibaVille is a decentralized strategy game where players mint, build, trade, an
 
 - Buildings are permanently tied to their respective towns (Ville NFTs).
 - Resources, gold, and army units are managed by the current owner of the town.
-- Ville owners receive a **30% share token**, representing their stake. This token can be split or transferred to divide resource and gold collection rights.
+- Town share are sold to investors which represent a 30% of the town gold income.
 
 ---
 
@@ -73,14 +76,14 @@ To minimize gas fees and optimize functionality, the game employs modular smart 
    - Facilitates player-to-player trading of resources and gold.
 
 5. **Ville Shares Contract:**
-   - Facilitates the sale and distribution of 30% shares of Ville ownership, enabling profit sharing of resources and gold among share owners.
+   - Facilitates the sale and distribution of the shares of Ville ownership, enabling profit sharing of gold among share owners.
 
 ---
 
 ## **Monetization**
 
 - **Token Sale:** Fund initial development by ville NFTs.
-- **In-Game Purchases:** Energy boosts, cosmetics, and marketplace fees.
+- **In-Game Purchases:** Energy boosts, protection shields, cosmetics, and marketplace fees.
 
 ---
 

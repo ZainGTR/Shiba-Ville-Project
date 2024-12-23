@@ -42,4 +42,8 @@ contract VilleNFT is ERC721URIStorage {
         return _mintPrice;
     }
 
+    function getNextId() public view returns (uint256) {
+        return _nextTokenId;
+    }
+
 }
